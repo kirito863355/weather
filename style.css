@@ -111,7 +111,7 @@ section h1 {
 #locationForm {
   display: flex;
   flex-direction: row;
-  gap: 200śpx;
+  gap: 20px;
 }
 
 .hr1 {
