@@ -47,7 +47,7 @@ function changeBackground(data) {
   if (hours >= 6 && hours < 18) {
     document.body.style.backgroundImage = "/foto/sunny-day-minimal-mountains.jpg";
   } else {
-    document.body.style.backgroundImage = "/foto/night-9nngmbvce2sn0x9h.jpg";
+    document.body.style.backgroundImage = "/foto/wallpapersden.com_desert-nights-moon-5k-minimalism_5120x2880.jpg";
       
   }
 }
