@@ -45,7 +45,7 @@ function changeBackground(data) {
   const hours = currentTime.getHours();
 
   if (hours >= 6 && hours < 18) {
-    document.body.style.backgroundImage = "./foto/wallpapersden.com_desert-sun-day-minimalism_5120x2880.jpg";
+    document.body.style.backgroundImage = "url('https://www.pixel4k.com/wp-content/uploads/2020/12/beautiful-day-sunset-deer-minimal-4k_1608658609.jpg')"
   } else {
     document.body.style.backgroundImage = "url('https://images.wallpapersden.com/image/download/desert-nights-moon-5k-minimalism_amxua2qUmZqaraWkpJRqZmdlrWdtbWU.jpg')";
       
